@@ -5,7 +5,5 @@
         void BuildWatchSize();
         void BuildWatchType();
         void BuildWatchColor();
-        void BuildWatchStrap();
-        void BuildWatchStrapColor();
     }
 }
